@@ -1,11 +1,11 @@
-<h1 align="centre">MAHAKAALxMUSIC 🎵</h1>
+<h1 align="centre"> «𝙳𝚎𝚡𝚝𝚎𝚛ᵛᶜᗷOT» 🎵</h1>
 
 ### A bot that can play music on telegram group's voice call
 
-# Available on telegram as @Kohinoor_Music_Bot
+
 
 <p align="center">
-  <img src="https://telegra.ph/file/965dfc5005cd4facef437.jpg">
+  <img src="https://telegra.ph/file/e926ccf6542236346d52d.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
@@ -52,7 +52,7 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mahakaalalive/OxyXmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRiZoeL/DEXTERXVC)
 
 Use [@Pyrogram_gen_bot](https://t.me/Pyrogram_gen_bot) to get pyrogram string session
 
@@ -61,6 +61,4 @@ Use [@Pyrogram_gen_bot](https://t.me/Pyrogram_gen_bot) to get pyrogram string se
 <details>
 
 <summary> • 🔥CREDITS🔥 • </summary>
-<h2 align="center"> <a href="https://github.com/xxMUNNAxx">🔥 MUNNA 🔥</a></h2><h2 align="center"> <a href="https://github.com/dineshpamnani860">🔥 Lucifer 🔥</a></h2><h2 align="center"> <a href="https://github.com/Omiiiiii143">🔥 Smokie 🔥</a></h2><h2 align="center"> <a href="https://github.com/Anubis-Devil">🔥 Devil 🔥</a></h2><h2 align="center"> <a href="https://github.com/GodkillerOp">🔥 GodKiller 🔥</a></h2>
-
-</details>
+<h2 align="center"> <a href="https://github.com/MrRiZoeL">🖤 ℝɪℤᴏᴇ𝕃 🖤
