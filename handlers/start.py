@@ -35,11 +35,11 @@ async def start(_, message: Message):
                         "📜 cσммαη∂s 📜", url="https://telegra.ph/%E0%A5%90---%CF%BB%CE%B1hakaal-05-13")
                   ],[
                     InlineKeyboardButton(
-                        "❤️ мү σωηεя ❤️", url="https://t.me/Belongs_to_Lord_Shiva"
+                        "❤️ мү σωηεя ❤️", url="https://t.me/ItsMeDEXTER"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "🔥 σғғιcιαℓ gяσυρ 🔥", url="https://t.me/X_F0RCE_TEAM"
+                        "🔥 σғғιcιαℓ gяσυρ 🔥", url="https://t.me/GODS_CLANN"
                     )]
             ]
         ),
