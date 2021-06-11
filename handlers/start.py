@@ -32,7 +32,7 @@ async def start(_, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "📜 cσммαη∂s 📜", url="https://telegra.ph/%E0%A5%90---%CF%BB%CE%B1hakaal-05-13")
+                        "📜 cσммαη∂s 📜", url="https://telegra.ph/RiZoeL-MuSic-06-03-2")
                   ],[
                     InlineKeyboardButton(
                         "❤️ мү σωηεя ❤️", url="https://t.me/ItsMeDEXTER"
